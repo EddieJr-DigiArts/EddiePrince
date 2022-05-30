@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EddiePrince
-- 👀 I’m interested in GameDev, Anime and Cartoon Style 3D Modelling 
-- 🌱 I’m currently learning C#, Unity 3D GameDev, Blender
-- 💞️ I’m looking to collaborate on C# coding, 3D modelling 
+- 👀 I’m interested in all about GameDev 
+- 🌱 I’m currently learning GameDev with Godot, Blender3D Modelling and Game Audio
+- 💞️ Currently working on solo projects but reach me if you think I could help with yours
 - 📫 How to reach me: Discord -> EddiePrince#4301
 
 <!---
